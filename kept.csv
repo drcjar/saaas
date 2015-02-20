@@ -1,0 +1,30 @@
+,ID,Data_year,Occupation,Age,Mortality,Denominator,Social_class,InOut,Age_cat,Social_cat,Year
+266,661,1890-1892,"Cotton, flax, linen, manufacture (Lancashire)",20-24,314,111243,6,1,2,2,1890
+287,120,1890-1892,"Dock labourer, wharf labourer",15-19,15,11760,5,0,1,2,1890
+330,148,1890-1892,"Farm labourer, farm servant",15-19,185,447714,8,0,1,2,1890
+485,1121,1890-1892,"Inn, hotel, servant (rural districts)",15-19,4,1608,4,2,1,2,1890
+780,414,1890-1892,"Tallow, soap manufacture",15-19,1,3009,5,1,1,2,1890
+781,415,1890-1892,"Tallow, soap manufacture",20-24,1,2010,5,1,2,2,1890
+782,416,1890-1892,"Tallow, soap manufacture",25-34,9,3297,5,1,3,2,1890
+783,417,1890-1892,"Tallow, soap manufacture",35-44,7,2742,5,1,4,2,1890
+784,418,1890-1892,"Tallow, soap manufacture",45-54,6,1941,5,1,5,2,1890
+785,419,1890-1892,"Tallow, soap manufacture",55-64,2,1425,5,1,6,2,1890
+786,420,1890-1892,"Tallow, soap manufacture",>65,4,717,5,1,7,2,1890
+987,985,1900-1902,"Carman, carrier, &c",45-54,275,92523,5,0,5,2,1900
+1194,933,1900-1902,Domestic indoor servant,25-34,50,32784,4,2,3,2,1900
+1598,961,1900-1902,"Railway guard, porter, pointsman, &c",20-24,92,73137,3,2,2,2,1900
+1695,1296,1900-1902,"Tallow, soap manufacture",15-19,3,4047,5,1,1,2,1900
+1696,1297,1900-1902,"Tallow, soap manufacture",20-24,5,2754,5,1,2,2,1900
+1697,1298,1900-1902,"Tallow, soap manufacture",25-34,5,4698,5,1,3,2,1900
+1698,1299,1900-1902,"Tallow, soap manufacture",35-44,9,3426,5,1,4,2,1900
+1699,1300,1900-1902,"Tallow, soap manufacture",45-54,2,2316,5,1,5,2,1900
+1700,1301,1900-1902,"Tallow, soap manufacture",55-64,3,1173,5,1,6,2,1900
+1701,1302,1900-1902,"Tallow, soap manufacture",>65,1,534,5,1,7,2,1900
+2387,1878,1910-1912,Gamekeeper,45-54,11,9309,3,0,5,2,1910
+3037,2634,1910-1912,"Tallow, soap manufacture",15-19,3,7380,5,1,1,2,1910
+3039,2643,1910-1912,"Tallow, soap manufacture",20-24,10,3978,5,1,2,2,1910
+3040,2644,1910-1912,"Tallow, soap manufacture",25-34,5,7251,5,1,3,2,1910
+3041,2645,1910-1912,"Tallow, soap manufacture",35-44,9,5841,5,1,4,2,1910
+3042,2646,1910-1912,"Tallow, soap manufacture",45-54,4,3954,5,1,5,2,1910
+3043,2647,1910-1912,"Tallow, soap manufacture",55-64,8,2073,5,1,6,2,1910
+3044,2648,1910-1912,"Tallow, soap manufacture",65-74,1,855,5,1,7,2,1910
